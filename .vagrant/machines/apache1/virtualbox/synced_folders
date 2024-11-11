@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"owner":"www-data","group":"www-data","guestpath":"/var/www/html","hostpath":"C:/Users/diego/Desktop/2do-Parcial-Automatizacion-con-vagrant/Pagina_1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/diego/Desktop/2do-Parcial-Automatizacion-con-vagrant","disabled":false,"__vagrantfile":true}}}
